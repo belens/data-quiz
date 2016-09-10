@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="550px" height="550px" viewBox="0 0 550 550" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title></title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="slices" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="svg" transform="translate(-550.000000, 0.000000)" stroke="#FFFFFF" stroke-width="10">
+            <g id="u_img_floppy" transform="translate(550.000000, 0.000000)">
+                <g id="Page-1" transform="translate(160.000000, 159.000000)">
+                    <polygon id="Stroke-1" points="196.034739 0 0 0 0 231 231 231 231 32.6724566"></polygon>
+                    <path d="M156.054682,68 L49.9476078,68 C38.9317647,68 30,59.0124746 30,47.9250169 L30,0 L176,0 L176,47.9250169 C176,59.0124746 167.070525,68 156.054682,68 L156.054682,68 Z" id="Stroke-3"></path>
+                    <polygon id="Stroke-5" points="121 47 154 47 154 14 121 14"></polygon>
+                    <path d="M64,68 L64,0" id="Stroke-7"></path>
+                    <path d="M50.0784883,95 L180.921512,95 C192.01192,95 201,104.048908 201,115.209227 L201,232 L30,232 L30,115.209227 C30,104.048908 38.9903679,95 50.0784883,95 L50.0784883,95 Z" id="Stroke-8"></path>
+                    <path d="M52,127 L180,127" id="Stroke-9"></path>
+                    <path d="M52,148 L157,148" id="Stroke-10"></path>
+                    <path d="M52,168 L111,168" id="Stroke-11"></path>
+                    <path d="M52,189 L134,189" id="Stroke-12"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
